@@ -1,3 +1,10 @@
+# AfterShip Own Rule:
+
+* Use TAB (4spaces) insteand of space for indentation
+* Use camelCase when naming functions only
+* Use snake_case when naming objects, and instances
+  `this_is_object`, `this_is_variable`
+
 # Airbnb JavaScript Style Guide() {
 
 *A mostly reasonable approach to JavaScript*
