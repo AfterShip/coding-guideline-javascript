@@ -5,6 +5,8 @@
 * Use snake_case when naming objects, and instances
   
   `this_is_object`, `this_is_variable`
+* Use [JSDoc](http://usejsdoc.org/) for documentation.
+
 
 # Airbnb JavaScript Style Guide() {
 
