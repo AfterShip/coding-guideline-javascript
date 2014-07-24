@@ -1,5 +1,5 @@
 # AfterShip Own Rule:
-
+* Filename & foldername: Use snake_case
 * Use TAB (4spaces) insteand of space for indentation
 * Use camelCase when naming functions only
 * Use snake_case when naming objects, and instances
