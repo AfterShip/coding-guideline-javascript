@@ -1,8 +1,9 @@
 # AfterShip Own Rule:
 * Filename & foldername: Use snake_case
 * Use TAB (4spaces) insteand of space for indentation
-* Use camelCase when naming functions only
-* Use snake_case when naming objects, and instances
+* Use `camelCase when` naming `functions`.
+* Use `UpperCamelCase` when naming `class variables`.
+* Use `snake_case` when naming `variables`.
   
   `this_is_object`, `this_is_variable`
 * Use [JSDoc](http://usejsdoc.org/) for documentation.
