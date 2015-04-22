@@ -8,6 +8,30 @@
   `this_is_object`, `this_is_variable`
 * Use [JSDoc](http://usejsdoc.org/) for documentation.
 
+* Declare `'use strict'` in all cases.
+* When constructing classes for `module.exports`, create it as follows:
+
+  ```javascript
+  (function () {
+    'use strict';
+
+    // Declare imports
+
+    // Constructor
+    function Example() {
+
+    }
+
+    Example.prototype.example_function1 = function () {
+
+    };
+
+    ...
+    
+    module.exports = Example;
+  })
+  ```
+
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 # Airbnb JavaScript Style Guide() {
