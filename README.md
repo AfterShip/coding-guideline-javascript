@@ -1,13 +1,13 @@
-# AfterShip Own Rule:
+# AfterShip Own Rules
 * Filename & foldername: Use snake_case
-* Use TAB (4spaces) instead of space for indentation
+* Use TAB (4 spaces) instead of space for indentation
 * Use `camelCase when` naming `functions`.
 * Use `UpperCamelCase` when naming `class variables`.
 * Use `snake_case` when naming `variables`.
   
   `this_is_object`, `this_is_variable`
-* Use [JSDoc](http://usejsdoc.org/) for documentation.
-
+  
+* Use [JSDoc](http://usejsdoc.org/) for documentation. [Guidelines Here](https://github.com/AfterShip/jsdoc)
 * Declare `'use strict'` in all cases.
 * When constructing classes for `module.exports`, create it as follows:
 
