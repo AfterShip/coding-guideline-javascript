@@ -3,10 +3,14 @@
 * Use TAB (4 spaces) instead of space for indentation
 * Use `camelCase when` naming `functions`.
 * Use `UpperCamelCase` when naming `class variables`.
-* Use `snake_case` when naming `variables`.
+* Use `snake_case` when naming `var variables`.
   
-  `this_is_object`, `this_is_variable`
+  `var name = 'John'`, `var email_address ='john@gmail.com'`
+
+* Use `UPPERCASE` when naming `const variables`.
   
+  `var USER = 'John'`, `var DEFAULT_EMAIL ='john@gmail.com'`
+
 * Use [JSDoc](http://usejsdoc.org/) for documentation. [Guidelines Here](https://github.com/AfterShip/jsdoc)
 * Declare `'use strict'` in all cases.
 * When constructing classes for `module.exports`, create it as follows:
