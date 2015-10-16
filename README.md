@@ -1,3 +1,9 @@
+# This is deprecated
+
+Please refer to our new coding guideline which is using [eslint](https://github.com/AfterShip/eslint-config-aftership)
+
+
+
 # AfterShip Own Rules
 * Filename & foldername: Use snake_case
 * Use TAB (4 spaces) instead of space for indentation
